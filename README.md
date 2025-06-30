@@ -2,9 +2,9 @@
 
 I’m a freelance web developer who’s been exploring the digital world for 20 years — and now I’m bringing all that passion into professional, clean, scalable websites.
 
-🌐 I use **HTML, CSS, and Tailwind** to build responsive layouts that grow with your business 
-🧩 I care deeply about clean structure, pixel-perfect details, and websites that *feel right* 
-🛠️ I’m currently crafting a minimalist, Tailwind-powered theme for ClassicPress 
+🌐 I use **HTML, CSS, and Tailwind** to build responsive layouts that grow with your business   
+🧩 I care deeply about clean structure, pixel-perfect details, and websites that *feel right*   
+🛠️ I’m currently crafting a minimalist, Tailwind-powered theme for ClassicPress   
 🚀 Always learning, always building — especially when it comes to **scalable web systems**
 
 ---
